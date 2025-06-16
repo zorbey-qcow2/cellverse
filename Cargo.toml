@@ -1,0 +1,10 @@
+[package]
+name = "game_of_life"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glib = "0.20.9"
+gtk4 = "0.9.6"
+once_cell = "1.21.3"
+rand = "0.9.1"
