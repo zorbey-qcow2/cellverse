@@ -6,7 +6,7 @@
 
 ## 🎥 Demo
 
-<video src="demo/cellverse.mp4" controls width="640">
+<video src="https://github.com/user-attachments/assets/996bb7d7-28ed-4fce-80c8-6b0a1d2e2f87" controls width="640">
   Your browser does not support the video tag.
 </video>
 
